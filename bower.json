@@ -1,0 +1,33 @@
+{
+  "name": "piano-js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/farolfo/piano-js",
+  "authors": [
+    "Franco Arolfo <francoarolfo@hotmail.com>"
+  ],
+  "description": "Program a piano track with javascript and play it on the browser",
+  "main": "js/piano.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "HTML5",
+    "WEBAUDIO",
+    "PIANO"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webaudiox": "*"
+  }
+}
