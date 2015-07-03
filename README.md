@@ -1,4 +1,4 @@
-# piano-js
+# piano JS
 Program a piano track with javascript and play it on the browser.
 
 ### Install
